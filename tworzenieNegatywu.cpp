@@ -1,5 +1,4 @@
-
-
+// Damian Grzybowski
 #include "tworzenieNegatywu.h"
 
 
