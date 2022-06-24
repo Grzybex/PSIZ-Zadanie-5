@@ -1,4 +1,4 @@
-
+// Damian Grzybowski
 
 #ifndef ZADANIE_5_STRUKTURY_H
 #define ZADANIE_5_STRUKTURY_H
