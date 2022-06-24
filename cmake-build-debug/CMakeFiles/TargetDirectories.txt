@@ -1,0 +1,3 @@
+F:/PSIZ zadanie5/PSIZ_Zadanie_5/cmake-build-debug/CMakeFiles/Zadanie_5.dir
+F:/PSIZ zadanie5/PSIZ_Zadanie_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/PSIZ zadanie5/PSIZ_Zadanie_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v5
+304	377	1655835911182789954	Zadanie_5	5a675484ce53c7e9
+0	15	6777953128606140	build.ninja	87687bf5a647cf38
+43	848	6777953525582426	CMakeFiles/Zadanie_5.dir/wypiszInfo.cpp.obj	e9a31afa54225bda
+60	876	6777953525872417	CMakeFiles/Zadanie_5.dir/tworzenieNegatywu.cpp.obj	6eee91240d8a088
+1	1039	6777953527522417	CMakeFiles/Zadanie_5.dir/main.cpp.obj	5e32bd93c008434f
+1041	1421	6777953531262469	Zadanie_5.exe	cf5ffb838615e15c
