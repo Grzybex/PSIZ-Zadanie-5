@@ -1,4 +1,4 @@
-
+//Damian Grzybowski
 #include "wypiszInfo.h"
 
 void wypiszInformacje() {
