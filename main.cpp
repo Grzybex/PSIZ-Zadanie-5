@@ -1,3 +1,4 @@
+// Damian Grzybowski 
 #include <iostream>
 #include"wypiszInfo.h"
 #include "tworzenieNegatywu.h"
